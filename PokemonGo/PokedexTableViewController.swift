@@ -21,7 +21,6 @@ class PokedexTableViewController: UITableViewController {
         super.viewDidLoad()
        // tablePokemons.delegate = self
         //tablePokemons.dataSource = self
-        //agregarPokemons()
         pokemonsAtrapados = obtenerPokemonsAtrapados()
         pokemonsNoAtrapados = obtenerPokemonsNoAtrapados()
         print(pokemonsNoAtrapados.count)

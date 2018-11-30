@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		353CF8DD21B1CAF200BC61F4 /* PokePin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353CF8DC21B1CAF200BC61F4 /* PokePin.swift */; };
 		3556B05C21A5EAF5004C7A3A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3556B05B21A5EAF5004C7A3A /* AppDelegate.swift */; };
 		3556B05E21A5EAF5004C7A3A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3556B05D21A5EAF5004C7A3A /* ViewController.swift */; };
 		3556B06121A5EAF5004C7A3A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3556B05F21A5EAF5004C7A3A /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		353CF8DC21B1CAF200BC61F4 /* PokePin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokePin.swift; sourceTree = "<group>"; };
 		3556B05821A5EAF5004C7A3A /* PokemonGo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokemonGo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3556B05B21A5EAF5004C7A3A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3556B05D21A5EAF5004C7A3A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				3556B06221A5EAF5004C7A3A /* PokemonGo.xcdatamodeld */,
 				359584D821A5F9FC00831D20 /* Funciones.swift */,
 				35E9FA2421AF2A9F0096C6C8 /* PokedexTableViewController.swift */,
+				353CF8DC21B1CAF200BC61F4 /* PokePin.swift */,
 			);
 			path = PokemonGo;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				353CF8DD21B1CAF200BC61F4 /* PokePin.swift in Sources */,
 				3556B05E21A5EAF5004C7A3A /* ViewController.swift in Sources */,
 				35E9FA2521AF2A9F0096C6C8 /* PokedexTableViewController.swift in Sources */,
 				3556B05C21A5EAF5004C7A3A /* AppDelegate.swift in Sources */,
